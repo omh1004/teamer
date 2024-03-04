@@ -1,0 +1,10 @@
+C:\Users\hcw06\source\repos\WindowsCaculator\WindowsCaculator\obj\Debug\WindowsCaculator.csproj.AssemblyReference.cache
+C:\Users\hcw06\source\repos\WindowsCaculator\WindowsCaculator\obj\Debug\WindowsCaculator.Caculator.resources
+C:\Users\hcw06\source\repos\WindowsCaculator\WindowsCaculator\obj\Debug\WindowsCaculator.Properties.Resources.resources
+C:\Users\hcw06\source\repos\WindowsCaculator\WindowsCaculator\obj\Debug\WindowsCaculator.csproj.GenerateResource.cache
+C:\Users\hcw06\source\repos\WindowsCaculator\WindowsCaculator\obj\Debug\WindowsCaculator.csproj.CoreCompileInputs.cache
+C:\Users\hcw06\source\repos\WindowsCaculator\WindowsCaculator\bin\Debug\WindowsCaculator.exe.config
+C:\Users\hcw06\source\repos\WindowsCaculator\WindowsCaculator\bin\Debug\WindowsCaculator.exe
+C:\Users\hcw06\source\repos\WindowsCaculator\WindowsCaculator\bin\Debug\WindowsCaculator.pdb
+C:\Users\hcw06\source\repos\WindowsCaculator\WindowsCaculator\obj\Debug\WindowsCaculator.exe
+C:\Users\hcw06\source\repos\WindowsCaculator\WindowsCaculator\obj\Debug\WindowsCaculator.pdb
